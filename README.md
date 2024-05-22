@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor back-end com experiência em diversas tecnologias e linguagens de programação. Gosto de criar soluções eficientes e escaláveis para os desafios de desenvolvimento de software.
 
-## Tecnologias e Ferramentas
+## SKILS
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -19,5 +19,6 @@ Sou um desenvolvedor back-end com experiência em diversas tecnologias e linguag
 Apaixonado por tecnologia e desenvolvimento de software, estou sempre buscando aprender novas ferramentas e aprimorar minhas habilidades. Acredito na importância de um código bem estruturado e na colaboração em projetos para alcançar resultados incríveis.
 
 ---
+![isaachackandprogramer GitHub stats](https://github-readme-stats.vercel.app/api?username=isaachackandprogramer&show_icons=true&theme=dark&hide=stars,issues)
 
-Sinta-se à vontade para explorar meus repositórios aqui no GitHub. Vamos criar algo incrível juntos!
+Sinta-se à vontade para explorar meus conhecimentosaqui no GitHub. Vamos criar algo incrível juntos!
