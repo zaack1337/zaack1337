@@ -20,5 +20,6 @@ Apaixonado por tecnologia e desenvolvimento de software, estou sempre buscando a
 
 ---
 ![isaachackandprogramer GitHub stats](https://github-readme-stats.vercel.app/api?username=isaachackandprogramer&show_icons=true&theme=dark&hide=stars,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaachackandprogramer&layout=compact&theme=dark&hide=html,shell,scheme,lua,css,scss,sass,python,mdx,md)
 
 Sinta-se à vontade para explorar meus conhecimentosaqui no GitHub. Vamos criar algo incrível juntos!
