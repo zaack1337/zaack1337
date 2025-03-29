@@ -1,5 +1,5 @@
 ```
 Zaackzin - Cybersecurity Student
-I like Js , python
+I like C , python
 Is your application secure?
 ```
