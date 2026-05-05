@@ -15,7 +15,6 @@
 
 ### 🖥️ Operating Systems:
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-344DF5?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 🔥 Offensive Knowledge:
 ![Web Hacking](https://img.shields.io/badge/Web_Hacking-black?style=for-the-badge&logo=ghost&logoColor=white)
