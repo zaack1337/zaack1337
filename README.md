@@ -10,7 +10,6 @@ Cybersec Student • Low-Level Enthusiast • Linux User
 
 </div>
 
----
 
 ## ~/about_me
 
@@ -30,7 +29,7 @@ developer zaack = {
 };
 ```
 
----
+
 
 ## ~/stack
 
@@ -50,41 +49,24 @@ developer zaack = {
 
 </div>
 
----
+
 
 ## ~/focus
 
 - Low-Level Programming
 - Linux Internals
-- Reverse Engineering
-- Binary Exploitation
 - Web Security
 - Systems Knowledge
 
----
-
-## ~/github_stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" />
-
-</div>
-
----
 
 ## ~/links
 
 🌐 Portfolio: <https://zaack1337.vercel.app>
 
----
 
 <div align="center">
 
 ```bash
 > currently learning...
 ```
-
 </div>
