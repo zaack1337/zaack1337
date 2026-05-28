@@ -1,22 +1,90 @@
-<h2 align="center">☠ Underground Coder | Web Hacker</h2>
----
+<div align="center">
 
-## 🌐 Site
+# zaack
 
-📎 [zaack1337.vercel.app](https://zaack1337.vercel.app)
+```bash
+Cybersec Student • Low-Level Enthusiast • Linux User
+```
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=808080&center=true&vCenter=true&width=500&lines=Arch+Linux;C+Programming;Reverse+Engineering;Neovim+%2F+Emacs;Low-Level+Studies;Cybersecurity" />
 
-## 🧠 Skills
-
-### ⚙️ Programming:
-![C](https://img.shields.io/badge/C/C++-black?style=for-the-badge&logo=C&logoColor=blue)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-### 🖥️ Operating Systems:
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-
-### 🔥 Offensive Knowledge:
-![Web Hacking](https://img.shields.io/badge/Web_Hacking-black?style=for-the-badge&logo=ghost&logoColor=white)
+</div>
 
 ---
+
+## ~/about_me
+
+```c
+typedef struct {
+    char *name;
+    char *focus;
+    char *editor;
+    char *os;
+} developer;
+
+developer zaack = {
+    .name = "zaack",
+    .focus = "low-level / cybersec",
+    .editor = "neovim + emacs",
+    .os = "arch linux"
+};
+```
+
+---
+
+## ~/stack
+
+<div align="center">
+
+### Languages
+
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+
+### Environment
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-111111?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-111111?style=for-the-badge&logo=neovim&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-111111?style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## ~/focus
+
+- Low-Level Programming
+- Linux Internals
+- Reverse Engineering
+- Binary Exploitation
+- Web Security
+- Systems Knowledge
+
+---
+
+## ~/github_stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" />
+
+</div>
+
+---
+
+## ~/links
+
+🌐 Portfolio: <https://zaack1337.vercel.app>
+
+---
+
+<div align="center">
+
+```bash
+> currently learning...
+```
+
+</div>
