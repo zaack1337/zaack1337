@@ -24,7 +24,7 @@ typedef struct {
 developer zaack = {
     .name = "zaack",
     .focus = "low-level / cybersec",
-    .editor = "neovim + emacs",
+    .editor = "emacs",
     .os = "arch linux"
 };
 ```
