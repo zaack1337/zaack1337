@@ -6,7 +6,7 @@
 Cybersec Student • Low-Level Enthusiast • Linux User
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=808080&center=true&vCenter=true&width=500&lines=Arch+Linux;C+Programming;Neovim+%2F;Low-Level+Studies;Cybersecurity" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=808080&center=true&vCenter=true&width=500&lines=Arch+Linux;C+Programming;Emacs+%2F;Low-Level+Studies;Cybersecurity" />
 
 </div>
 
